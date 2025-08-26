@@ -1,0 +1,7 @@
+ name=Deepika M
+ college name=Aditya degree college for women
+ cpurse name=bsc-cs-2
+ suc=2347390366
+ roll no=84
+ email:adityakkd@gmail.com
+ address=kakinada
